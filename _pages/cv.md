@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* Msc. in Engineering, Ecole Polytechnique, Paris, 2021
+* MSc. in Engineering, Ecole Polytechnique, Paris, 2021
 * MSc. in Biomedical Engineering, Imperial College, London, 2021
 * Ph.D in Biomedical Engineering, Heriot-Watt University / Univeristy of Glasgow, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2020 - August 2020: Research Assistant
+  * Institute of Industrial Science,LiMMS, Tokyo, Japan
+  * Research topic: DNA-dynamic simulation, quantum transport for biosensor design.
+  * Supervisor: Dr. Nicolas Clement
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Research Assistant
+  * Molcure, Tsuruoka, Japan
+  * Research topic : Setting up of a workflow to analyze DNA Sequencing data (through CWL and Docker). Coding of a robot to execute PCR clean-up protocols.
+  * Supervisor : Satoshi Tamaki
   
 Skills
 ======
