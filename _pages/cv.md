@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Msc. in Engineering, Ecole Polytechnique, Paris, 2021
+* MSc. in Biomedical Engineering, Imperial College, London, 2021
+* Ph.D in Biomedical Engineering, Heriot-Watt University / Univeristy of Glasgow, 2024 (expected)
 
 Work experience
 ======
